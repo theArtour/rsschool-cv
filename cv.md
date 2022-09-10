@@ -1,7 +1,8 @@
-# [rsschool-cv](#rsschool-cv)   
+# rsschool-cv
+### junior Frontend developer
 # Artour Hoiko   
 ***
-### Contacts:  [ ](#contacts) 
+### Contacts:  
 - discord:  theArtour  
 - email:  nekron08@gmail.com 
 - phone:  +380502179211
@@ -14,19 +15,19 @@
 - git
 
 ***
-### About myself: [](#about-myself)  
+### About myself:  
 I want to learn Front-End Development in RSSchool!   
 ***
-### Code example: [](#code-example)
+### Code example:
 `{ function multiply(a, b){
  return  a * b
 }
 multiply(1,2); }`
 ***
-###  Work experience: [](#work-experience)
+###  Work experience: 
 *Nothing yet…* 
 ***
-### Education and courses: [](#education-and-courses)
+### Education and courses: 
 1. javascript: the definitive guide
 2. JavaScript https://learn.javascript.ru
 3. International Academy of Ecology and Medicine
